@@ -1,0 +1,23 @@
+{
+  "name": "localstorage-hook-react",
+  "version": "1.0.3",
+  "description": "hook for storing value to localstorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "debounce"
+  },
+  "author": "Utkarsh Chaturvedi",
+  "license": "MIT",
+
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.18",
+    "typescript": "^5.1.6"
+  }
+}
