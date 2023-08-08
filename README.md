@@ -80,4 +80,4 @@ setValue]
     [[LICENSE](https://chat.openai.com/LICENSE)]{.underline} file for
     details.
     **Contributing**\
-    **Thank you for using debounce-hook-react. If you have any issues, suggestions, or contributions, feel free to open an issue or a pull request on the [GitHub repository](https://github.com/yourusername/your-repo). Happy coding!**
+    **Thank you for using debounce-hook-react. If you have any issues, suggestions, or contributions, feel free to open an issue or a pull request on the [GitHub repository](https://github.com/utkcha1205/useLocalStorage). Happy coding!**
